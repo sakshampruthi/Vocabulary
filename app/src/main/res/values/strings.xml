@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Vocabulary</string>
+    <string name="welcome">Welcome</string>
+    <string name="forgotpass">Forgot Password?</string>
+    <string name="log_in">Login</string>
+    <string name="not_a_user_sign_up">Not a User? Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="register">Register</string>
+    <!-- TODO: Remove or change this fragment_placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_word_view">WordViewActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="click_to_mark_for_review">Click to Mark for Review</string>
+    <string name="logout">Logout</string>
+</resources>
